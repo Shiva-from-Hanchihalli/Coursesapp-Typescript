@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Learn React",
+    "description": "Explore React to build dynamic and interactive user interfaces for modern web applications.",
+    "icon": "React",
+    "link": "/courses/react"
+  },
+  {
+    "title": "Master JavaScript",
+    "description": "Deepen your understanding of JavaScript to elevate your web development expertise.",
+    "icon": "Javascript",
+    "link": "/courses/javascript"
+  },
+  {
+    "title": "Get Started with HTML/CSS",
+    "description": "Master the art of CSS to create visually stunning and responsive web designs.",
+    "icon": "HTML",
+    "link": "/courses/css"
+  },
+  {
+    "title": "Learn Node.js",
+    "description": "Gain hands-on experience in Node.js to build scalable backend applications.",
+    "icon": "Node",
+    "link": "/courses/nodejs"
+  },
+  {
+    "title": "Learn Java",
+    "description": "Develop a strong foundation in Java to create powerful and efficient applications.",
+    "icon": "Java",
+    "link": "/courses/java"
+  },
+  {
+    "title": "Learn TypeScript",
+    "description": "Enhance your JavaScript skills with TypeScript for more robust and maintainable code.",
+    "icon": "Typescript",
+    "link": "/courses/typescript"
+  },
+  {
+    "title": "Get Started with MongoDB",
+    "description": "Dive into MongoDB and learn how to manage NoSQL databases effectively.",
+    "icon": "MongoDB",
+    "link": "/courses/mongodb"
+  },
+  {
+    "title": "Get Started with MySQL",
+    "description": "Master MySQL to efficiently manage and query relational databases.",
+    "icon": "MYSQL",
+    "link": "/courses/mysql"
+  },
+  {
+    "title": "Get Started with SAP UI5",
+    "description": "Discover the power of SAP UI5 to develop enterprise-grade applications.",
+    "icon": "SAPUI5",
+    "link": "/courses/sap-ui5"
+  }
+]

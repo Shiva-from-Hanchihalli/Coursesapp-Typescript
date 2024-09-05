@@ -1,0 +1,105 @@
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 110vh;
+    background-color: rgb(241, 234, 234);
+    background-image: url(https://i.pinimg.com/736x/d0/aa/59/d0aa59e8956bf50a9a873f3c30b3c78a.jpg);
+    /* background-size: cover; */
+}
+
+.contact-form {
+    display: flex;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    max-width: 800px;
+    width: 100%;
+}
+
+.form-left, .form-right {
+    padding: 40px;
+}
+
+.form-left {
+    flex: 2;
+}
+
+.form-right {
+    flex: 1;
+    background: #3498db;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form-right h2 {
+    margin-bottom: 50px;
+    font-weight: bolder;
+}
+
+.form-right ul {
+    list-style: none;
+    padding: 0;
+}
+
+.form-right ul li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.form-right ul li i {
+    margin-right: 10px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group input, .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.form-group textarea {
+    height: 100px;
+}
+
+.btn {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #2980b9;
+}
+
+ul li a {
+    text-decoration: none;
+    color: inherit; 
+    transition: color 0.3s ease; 
+}
+
+ul li a:hover {
+    color: #007bff; 
+}
+
+ul li i {
+    margin-right: 8px; 
+}
+
+.left-section {
+    flex: 1;
+    padding-right: 2rem;
+    margin-top: '20%';
+  }

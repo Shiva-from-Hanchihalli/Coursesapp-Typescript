@@ -1,0 +1,200 @@
+[
+  {
+    "title": "Learn React",
+    "description": "Dive into React and learn how to build interactive UIs.And Also practice in below platforms to learn .",
+    "icon": "React",
+    "links": {
+      "YouTube": "https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&si=HyiTkPPJkQbmZlal",
+      "GitHub": "https://github.com/Asabeneh/30-Days-Of-React/blob/master/readMe.md",
+      "W3Schools": "https://www.w3schools.com/REACT/default.asp",
+      "React":"https://legacy.reactjs.org/",
+      "CodeSandbox":"https://codesandbox.io/signin?continue=/dashboard"
+    }
+  },
+  {
+    "title": "Interview Preparation",
+    "description": "Explore these resources to effectively prepare for your upcoming interviews.",
+    "icon": "InterviewPreparation",
+    "links": {
+      "prepinsta":"https://prepinsta.com/interview-preparation/",
+      "YouTube": "https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=UlKRfIDqF1WE0h5C",
+      "TechDev":"https://techdevguide.withgoogle.com/paths/interview/",
+      "ResumeBuilder":"https://www.overleaf.com/project/66ced025310288707670c26e"
+    }
+  },
+  {
+    "title": "Master JavaScript",
+    "description": "Master JavaScript and enhance your web development skills.",
+    "icon": "Javascript",
+    "links": {
+      "YouTube": "https://youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4&si=ed4Uc70e2YiCQNQ9",
+      "GitHub": "https://github.com/xoraus/Javascript-Notes/blob/main/01.%20JavaScript%20Fundamentals%20Part%201.md",
+      "LeetCode": "https://leetcode.com",
+      "W3Schools": "https://www.w3schools.com/js/",
+      "GoogleDrive":"https://basponccollege.org/LMS/EMaterial/Science/Comp/HVP/JS%20Notes.pdf"
+
+    }
+  },
+  {
+    "title": "Get Started with HTML and CSS",
+    "description": "Learn CSS and design beautiful web pages.",
+    "icon": "HTML",
+    "links": {
+      "YouTube": "https://youtu.be/G3e-cpL7ofc?si=2Ej2dQdMgDDajkH3",
+      "GitHub": "https://github.com/cassidoo/HTML-CSS-Tutorial/tree/master/1%20-%20Structure",
+      "LeetCode": "https://leetcode.com",
+      "W3Schools": "https://www.w3schools.com/html/",
+      "CodeSandbox":"https://codesandbox.io/signin?continue=/dashboard"    }
+  },
+    {
+      "title": "Get Started with Java",
+      "description": "Develop a strong foundation in Java to create powerful and efficient applications.",
+      "icon": "Java",
+      "links": {
+        "YouTube": "https://youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5&si=TCXF2UfgZ4nHZNdQ",
+        "JavaTPoint": "https://www.javatpoint.com/java-tutorial",
+        "LeetCode": "https://leetcode.com",
+        "W3Schools": "https://www.w3schools.com/java/default.asp",
+        "GoogleDrive": "https://drive.google.com/file/d/1WlHErvYGogcN0UyZie0ST-NemUyOnjDr/view?usp=sharing"
+      }
+    },
+      {
+        "title": "Get Started with Python ",
+        "description": "Dive into Python to build powerful scripts, automate repetitive tasks, and analyze data effortlessly.",
+        "icon": "Python",
+        "links": {
+          "YouTube": "https://youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&si=MAfP0-ri-JKqIcbA",
+          "GitHub": "https://github.com/in28minutes/python-tutorial-for-beginners",
+          "LeetCode": "https://leetcode.com",
+          "W3Schools": "https://www.w3schools.com/python/",
+          "Todoapp": "https://www.youtube.com/watch?v=TzlcavuwNvo"
+        }
+      },
+        {
+          "title": "Get Started with C",
+          "description": "Get to grips with C programming to develop high-performance applications and understand low-level system operations.",
+          "icon": "C",
+          "links": {
+            "YouTube": "https://youtu.be/irqbmMNs2Bo?si=U3tfcGKFtNFB2JU3",
+            "GitHub": "https://github.com/PacktPublishing/Learn-C-Programming/tree/master/Chapter01",
+            "LeetCode": "https://leetcode.com",
+            "W3Schools": "https://www.w3schools.com/c/"
+          }
+        },
+          {
+            "title": "Get Started with Nodejs",
+            "description": "Use Node.js to create fast, scalable server-side applications and real-time services with a non-blocking I/O model.",
+            "icon": "Node",
+            "links": {
+              "YouTube": "https://youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG&si=ODNkEUIBprOTrYw4",
+              "LeetCode": "https://leetcode.com",
+              "W3Schools": "https://www.w3schools.com/nodejs/",
+              "GoogleDrive": "https://www.anuragkapur.com/assets/blog/programming/node/PDF-Guide-Node-Andrew-Mead-v3.pdf",
+              "CodeSandbox":"https://codesandbox.io/signin?continue=/dashboard" 
+            }
+          
+  },
+  {
+    "title": "Get Started with Typescript",
+    "description": "Enhance your JavaScript skills with TypeScript for more robust and maintainable code.",
+    "icon": "Typescript",
+    "links": {
+      "YouTube": "https://youtu.be/iTZ1-85I77c?si=to0iCSyjxQlUYEgq",
+      "GitHub": "https://code.visualstudio.com/docs/typescript/typescript-tutorial",
+      "W3Schools": "https://www.w3schools.com/typescript/index.php",
+      "GoogleDrive": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html",
+      "CodeSandbox":"https://codesandbox.io/signin?continue=/dashboard" 
+
+    }
+  
+},
+{
+  "title": "Get Started with Reduxjs",
+  "description": "Learn Redux to handle complex state management in your React apps, ensuring consistency and making debugging easier.",
+  "icon": "Reduxjs",
+  "links": {
+    "YouTube": "https://youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK&si=OMbuq49wfXwrXZTU",
+    "React":"https://redux.js.org/",
+    "GitHub": "hhttps://github.com/reduxjs/redux/blob/master/docs/tutorials/fundamentals/part-1-overview.md",
+    "JavaTPoint": "https://www.javatpoint.com/react-redux",
+    "CodeSandbox":"https://codesandbox.io/signin?continue=/dashboard" 
+
+  }
+
+},
+{
+  "title": "Get Started with Express.js",
+  "description": "Discover how Express.js simplifies the development of server-side applications and APIs with its minimalist framework.",
+  "icon": "Expressjs",
+  "links": {
+    "YouTube": "https://youtu.be/P6RZfI8KDYc?si=FcIK9hK5Ug75IQqT",
+    "GitHub": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction",
+    "W3Schools": "https://www.geeksforgeeks.org/express-js/",
+    "GoogleDrive": "https://www.freecodecamp.org/news/the-express-handbook/"
+  }
+
+},
+{
+  "title": "Get Started with MongoDB",
+  "description": "Dive into MongoDB and learn how to manage NoSQL databases effectively.",
+  "icon": "MongoDB",
+  "links": {
+    "YouTube": "https://youtu.be/0ws3oIyqieY?si=QDVfMeUXu0ysuGOh",
+    "GitHub": "https://github.com",
+    "W3Schools": "https://www.w3schools.com",
+    "Mongodb":"https://www.mongodb.com/"
+  }
+
+},
+{
+  "title": "Get Started with MySQL",
+  "description": "Master MySQL to efficiently manage and query relational databases.",
+  "icon": "MYSQL",
+  "links": {
+    "YouTube": "https://youtu.be/hlGoQC332VM?si=W4d_eCR3VJAaHS85",
+    "GitHub": "https://github.com/carlba/mysql-tutorial",
+    "W3Schools": "https://www.w3schools.com/MySQL/default.asp",
+    "MYSQL": "https://www.mysql.com/"
+  }
+
+},
+{
+  "title": "Get Started with Cloud Platforms Like Azure Devops etc",
+  "description": " Explore Microsoft Azure to deploy, manage, and scale applications with a comprehensive suite of cloud services and tools.",
+  "icon": "cloud",
+  "links": {
+    "YouTube": "https://youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&si=S4u4W_4C_MJPYdou",
+    "AZURE":"https://youtube.com/playlist?list=PLdpzxOOAlwvIcxgCUyBHVOcWs0Krjx9xR&si=-Qz1My5DfW-PxBqx",
+    "GitHub": "https://github.com/undergroundwires/Azure-in-bullet-points",
+    "JavaTPoint": "https://www.javatpoint.com/azure-devops",
+    "W3Schools": "https://www.w3schools.com/bootcamp/bootcamp_devops.php"
+  }
+
+},
+{
+  "title": "Get Started with React Native",
+  "description": "Create high-quality, native mobile applications for both iOS and Android using React Native’s single codebase and powerful components.",
+  "icon": "Reactnative",
+  "links": {
+    "YouTube": "https://youtube.com/playlist?list=PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1&si=CxLJTMnjgimjZfPy",
+      "GitHub": "https://github.com/react-native-community",
+      "W3Schools": "https://reactnative.dev/docs/tutorial",
+      "React":"https://reactnative.dev/",
+      "CodeSandbox":"https://codesandbox.io/signin?continue=/dashboard"
+  }
+
+},
+{
+  "title": "Get Started with SAP ui5",
+  "description": "Discover the power of SAP UI5 to develop enterprise-grade applications.",
+  "icon": "SAPUI5",
+  "links": {
+    "YouTube": "https://youtube.com/playlist?list=PLa2k-46pa1NepjWHSrWeN74x_QgRjyt-B&si=GJdBvd_rsPYgCqbS",
+    "SAP": "https://community.sap.com/t5/technology-blogs-by-sap/learning-sapui5-for-beginners/ba-p/13470938",
+    "W3Schools": "https://www.w3schools.com/training/aws/sap-on-aws-technical.php",
+    "DEMOKIT": "https://sapui5.hana.ondemand.com/"
+  }
+
+}
+
+]

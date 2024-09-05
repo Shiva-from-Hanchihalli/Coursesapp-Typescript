@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+}
+
+html, #root {
+  height: 100%;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(to right, #38b2ac, #4299e1, #9f7aea);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+header nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+header nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  flex-grow: 1;
+  padding: 2rem;
+  padding-top: 4rem; /* Adjusted to account for fixed header */
+  width: 100vw;
+  margin-top: 4rem; /* Ensure content starts after the fixed header */
+}
+
+#popup {
+  position: absolute;
+  background-color: #fff;
+  padding: 6%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 30%;
+  height: 30%;
+  border-radius: 30px;
+  z-index: 10;
+}
+
+#overlay { 
+  position: fixed;
+  background-color: rgba(0,0,0,0.5);
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 9;
+}
+
+footer {
+  background: linear-gradient(to right, #38b2ac, #4299e1, #9f7aea);
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  bottom: 0;
+  left: 0;
+  width: 100vh;
+}
+
+
+.left-section {
+  flex: 1;
+  padding-right: 2rem;
+  margin-top: '20%';
+}
+/* AboutUs.css */
+
+/* Example animation for fade-in effect */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Apply fade-in effect to Hero Section */
+.HeroSection {
+  animation: fadeIn 2s ease-in;
+}
+
+/* Additional animations */
+.card-animate {
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.card-animate:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
