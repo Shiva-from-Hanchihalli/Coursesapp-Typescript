@@ -24,7 +24,7 @@ const Login: React.FC = () => {
   const handleLoginWithCredentials = async (email: string, password: string) => {
     try {
       await loginWithEmailAndPassword(email, password);
-      setUser({ email });
+      setUser({email});
       localStorage.setItem('user', JSON.stringify({ email }));
       navigate('/courses');
     } catch (error:any) {

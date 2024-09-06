@@ -104,7 +104,7 @@ const Header: React.FC = () => {
           <ListItem key={item} disablePadding>
             <ListItemButton
               component={Link}
-              to={item === 'Home' ? '/' : `/${item.toLowerCase()}`}
+              to={item === 'Home' ? '/' : `/${item}`}
               sx={{
                 textAlign: 'center',
                 backgroundColor: 'blue',
@@ -157,7 +157,7 @@ const Header: React.FC = () => {
           </IconButton>
 
           <Box sx={{ display: 'flex', flexGrow: 1, alignItems: 'center' }}>
-            <img src="/public/logo2.png" alt="Logo" style={{ height: 40, marginRight: 16 }} />
+            <img src="https://i.imgur.com/hOlNFeH.png" alt="Logo" style={{ height: 40, marginRight: 16 }} />
             <Box sx={{ display: { xs: 'none', sm: 'flex' }, flexGrow: 1 }}>
               {navItems.slice(0, 3).map((item) => (
                 <Button
