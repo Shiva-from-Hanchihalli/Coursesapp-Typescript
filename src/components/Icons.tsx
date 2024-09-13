@@ -130,22 +130,22 @@ export const platformIcons: Record<PlatformKey, JSX.Element> = {
      </Tooltip>
     ),
   prepinsta: (
-    <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9XVZY-ICvA3Joa5xPSOUA9ftRuX-9MNlACA&s" target="_blank" rel="noopener noreferrer" style={{ fontSize: 20, textDecoration: 'none' }}>
+    <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9XVZY-ICvA3Joa5xPSOUA9ftRuX-9MNlACA&s" target="_blank" rel="noopener noreferrer" style={{ fontSize: 20, textDecoration: 'none',marginLeft:'35%' }}>
       Prepinsta
     </a>
   ),
   TechDev: (
-    <a href="https://techdevguide.withgoogle.com/paths/interview/" target="_blank" rel="noopener noreferrer" style={{ fontSize: 17, textDecoration: 'none' ,  color:'red'}}>
+    <a href="https://techdevguide.withgoogle.com/paths/interview/" target="_blank" rel="noopener noreferrer" style={{ fontSize: 17, textDecoration: 'none' ,  color:'red',marginRight:'39%'}}>
       TechDev
     </a>
   ),
   ResumeBuilder: (
-    <a href="https://www.overleaf.com/project/66ced025310288707670c26e" target="_blank" rel="noopener noreferrer" style={{ fontSize: 15, textDecoration: 'none', color: 'Blue' }}>
+    <a href="https://www.overleaf.com/project/66ced025310288707670c26e" target="_blank" rel="noopener noreferrer" style={{ fontSize: 15, textDecoration: 'none', color: 'Blue',marginRight:'50%' }}>
       ResumeBuilder
     </a>
   ),
   JavaTPoint: (
-    <a href="https://www.javatpoint.com/java-tutorial" target="_blank" rel="noopener noreferrer" style={{ fontSize: 20, textDecoration: 'none', color: 'Blue' }}>
+    <a href="https://www.javatpoint.com/java-tutorial" target="_blank" rel="noopener noreferrer" style={{ fontSize: 15, textDecoration: 'none', color: 'Blue' ,marginRight:'50%'}}>
       JavatPoint
     </a>
   ),
