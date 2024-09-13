@@ -69,7 +69,7 @@ This project is a **Courses App** that features a React authentication module us
 
 ## Deployment
 
-The project is deployed on Netlify. You can access the live application here: [](#)
+The project is deployed on Netlify. You can access the live application here: [https://shivucourses.netlify.app](#)
 
 ## Contact
 
