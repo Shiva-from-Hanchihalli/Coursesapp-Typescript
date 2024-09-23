@@ -15,7 +15,7 @@ const Contact: React.FC = () => {
     const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
 
-        emailjs.sendForm('service_7bmkd5p', 'template_nv81g3e', e.target as HTMLFormElement, 'baGNdiLvMH9olYzXa')
+        emailjs.sendForm('YOUR_SEVICE ID', 'YOUR TEMPLATE ID', e.target as HTMLFormElement, ' YOUR API KEY')
             .then((result) => {
                 console.log('Success:', result.text);  
                 setStatus('Message sent successfully!');
